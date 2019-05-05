@@ -1,0 +1,6 @@
+.terraform
+.env.sh
+terraform-admin.json
+terraform.tfstate
+.terraform.tfstate.lock.info
+terraform.tfstate.backup
